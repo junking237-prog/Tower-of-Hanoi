@@ -176,7 +176,7 @@ Versions 2 and 3 additionally implement `undo_move()` to support stepping **back
 
 ## 👤 Author
 
-Developed as part of a software development coursework project at **PK Fokam Institut of Excellence**.
+Developed as a C programming assignement project at **PK Fokam Institut of Excellence**.
 
 ---
 
